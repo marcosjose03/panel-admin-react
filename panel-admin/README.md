@@ -29,7 +29,7 @@ Este sitio web simula un panel administrativo desarrollado con **React** y **Vit
 - Bootstrap 5
 
 ## 🔧 Instalación y ejecución
-![Captura de pantalla](panel-admin/Captura.png)
+![Captura de pantalla]([panel-admin/Captura.png](https://github.com/marcosjose03/panel-admin-react/blob/5f8df29e1ca9ce17a867f0e757961a68544f4a45/panel-admin/Captura.png))
 ```bash
 # Clona este repositorio
 git clone https://github.com/tuusuario/panel-admin-react.git
