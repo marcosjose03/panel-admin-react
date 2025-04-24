@@ -42,4 +42,4 @@ npm install
 
 # Ejecuta el servidor en desarrollo
 npm run dev
-![image](https://github.com/user-attachments/assets/6f9d8d9e-1bf8-444d-a1ff-50e2a726d651)
+panel-admin/Captura.png
