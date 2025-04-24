@@ -4,7 +4,7 @@
 Escuela de Ingeniería de Sistemas e Informática  
 📅 I Semestre 2025  
 👨‍🏫 Profesor: Carlos Adolfo Beltrán Castro  
-👨‍💻 Estudiantes: Marcos José Orjuela Murillo Y Emerson Elian Lopez 
+👨‍💻 Estudiantes: Marcos José Orjuela Murillo - 2225506 Y Emersson Elian López Pita - 2225507
 ![Captura de pantalla](./Captura.png)
 ## 🚀 Descripción del Proyecto
 
