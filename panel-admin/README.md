@@ -5,7 +5,7 @@ Escuela de Ingeniería de Sistemas e Informática
 📅 I Semestre 2025  
 👨‍🏫 Profesor: Carlos Adolfo Beltrán Castro  
 👨‍💻 Estudiantes: Marcos José Orjuela Murillo Y Emerson Elian Lopez 
-
+![Captura de pantalla](./Captura.png)
 ## 🚀 Descripción del Proyecto
 
 Este sitio web simula un panel administrativo desarrollado con **React** y **Vite**. Incluye navegación moderna entre diferentes secciones y el uso de **Bootstrap 5** como framework de diseño.
@@ -29,7 +29,7 @@ Este sitio web simula un panel administrativo desarrollado con **React** y **Vit
 - Bootstrap 5
 
 ## 🔧 Instalación y ejecución
-![Captura de pantalla](./Captura.png)
+
 
 
 ```bash
