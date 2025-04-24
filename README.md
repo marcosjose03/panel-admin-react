@@ -34,7 +34,7 @@ Este sitio web simula un panel administrativo desarrollado con **React** y **Vit
 
 ```bash
 # Clona este repositorio
-git clone https://github.com/tuusuario/panel-admin-react.git
+git clone https://github.com/marcosjose03/panel-admin-react.git
 
 # Entra al proyecto
 cd panel-admin-react
