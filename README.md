@@ -42,4 +42,5 @@ npm install
 
 # Ejecuta el servidor en desarrollo
 npm run dev
-panel-admin/Captura.png
+![Captura de pantalla](panel-admin/Captura.png)
+
