@@ -1,12 +1,37 @@
-# React + Vite
+🛠️ Panel Administrativo Web con React JS
+Proyecto del Taller de Panel Administrativo
+Escuela de Ingeniería de Sistemas e Informática
+📅 I Semestre 2025
+👨‍🏫 Profesor: Carlos Adolfo Beltrán Castro
+👨‍💻 Estudiantes: Marcos José Orjuela Murillo Y Emerson Elian Lopez
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Descripción del Proyecto
+Este sitio web simula un panel administrativo desarrollado con React y Vite. Incluye navegación moderna entre diferentes secciones y el uso de Bootstrap 5 como framework de diseño.
 
-Currently, two official plugins are available:
+📂 Estructura del Proyecto
+Navbar con logo e ítems de navegación:
+Clientes
+Proveedor
+Usuarios
+Logout
+Rutas creadas con react-router-dom.
+Vistas con tablas de ejemplo en Clientes, Proveedor y Usuarios.
+Logout con mensaje informativo de cierre de sesión.
+🧰 Tecnologías Usadas
+React
+Vite
+React Router DOM
+Bootstrap 5
+🔧 Instalación y ejecución
+# Clona este repositorio
+git clone https://github.com/tuusuario/panel-admin-react.git
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Entra al proyecto
+cd panel-admin-react
 
-## Expanding the ESLint configuration
+# Instala dependencias
+npm install
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# Ejecuta el servidor en desarrollo
+npm run dev
+![Captura de pantalla](panel-admin/Captura.png)
